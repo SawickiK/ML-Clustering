@@ -1,0 +1,13 @@
+Pakiety:
+
+numpy, pandas, warnings, sklearn, sklearn_extra, seaborn, sklearn, matplotlib, yellowbrick.cluster, 
+scipy.cluster.hierarchy, mpl_toolkits.mplot3d,cluster, kmedoids, gower, copy
+
+
+
+
+
+
+
+
+
